@@ -1,0 +1,32 @@
+package jogorpg;
+
+// marocs nori  
+        
+
+public class Confronto {
+    
+    public Confronto(){
+        
+        
+        int flag = 1;
+      
+     while ( Monstro.getNome = vivo(true) && Heroi.getNome = vivo(true) ){
+         if (flag == 1){
+             flag = 2;
+        Monstro.getNome = atacar();
+          Heroi.getNome = defender();
+             if { Monstro.getNome.atacar() < Heroi.getNome = defender()
+            Heroi.getNome = perdeVida(8)  
+                    else 
+            Monstro.getNome = perdeVida(8) 
+                 
+             }}
+     }
+    }
+    if (coeficienteDeDescanço.Monstro.getNome > 20) {
+     Monstro.getNome = descansar ;
+             else 
+      (coeficienteDeDescanço.Heroi.getNome  > 20 ) 
+            Heroi.getNome  = descansar ;
+}
+}
