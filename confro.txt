@@ -1,4 +1,4 @@
-package jogorpg;
+﻿package jogorpg;
 
 // marocs nori  
         
@@ -30,3 +30,6 @@ public class Confronto {
             Heroi.getNome  = descansar ;
 }
 }
+
+
+//Teste TEste TESTETETETESTRET
